@@ -36,12 +36,12 @@
     "snyk-protect": "snyk protect"
   },
   "dependencies": {
-    "@nestjs/common": "^7.6.5",
-    "@nestjs/core": "^7.2.0",
-    "@nestjs/graphql": "^7.7.0",
-    "graphql": "^15.4.0",
-    "graphql-relay": "^0.6.0",
-    "graphql-tools": "^6.2.4",
+    "@nestjs/common": "^9.3.7",
+    "@nestjs/core": "^9.0.9",
+    "@nestjs/graphql": "^10.2.0",
+    "graphql": "^15.8.0",
+    "graphql-relay": "^0.10.0",
+    "graphql-tools": "^9.0.0",
     "reflect-metadata": "^0.1.13"
   },
   "devDependencies": {
